@@ -13,3 +13,9 @@ description: A creative workshop for front-end development and reflection.
 
 ## Learn More
 [About](about) | [Contact](contact)
+
+---
+
+Email: [signal@frontendfrequencies.dev](mailto:signal@frontendfrequencies.dev)
+Website design by [Walks Tall](https://www.walkstall.com/)
+© 2026 Walks Tall. All rights reserved.
