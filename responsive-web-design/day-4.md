@@ -1,4 +1,4 @@
-# Day 4 - My First Boilerplate!
+# Day 4 - My First HTML Document!
 ## 3.3.26
 Comment = a note written inside the code that humans can read and browsers ignore.  
 Comment example = `<!-- add your notes here -->`
