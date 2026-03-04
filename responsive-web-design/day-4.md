@@ -47,3 +47,7 @@ Bold text example: `<strong>hate</strong>` = **hate**
 ### My First HTML Document :)
 <a href="https://drive.google.com/file/d/1vNSMnH10mQ6Zw9b7fLTUE6TAoBZ6V2Rv/preview" target="_blank">Code</a>  
 <a href="https://frontendfrequencies.dev/responsive-web-design/day-4-rendered-output" target="_blank">Rendered Output</a>
+
+### Using HTML for something personal - Colleen's Killer Chili <3
+<a href="https://github.com/frontendfrequencies/Home/blob/33743c0403d5630e2029360371031f979fb6461b/responsive-web-design/day-4-colleens-chili-rendered-output.html" target="_blank">Code</a>  
+<a href="https://frontendfrequencies.dev/responsive-web-design/day-4-colleens-chili-rendered-output" target="_blank">Rendered Output</a>
