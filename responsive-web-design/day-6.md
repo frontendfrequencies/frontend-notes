@@ -13,7 +13,16 @@
 <a href="https://frontendfrequencies.dev/responsive-web-design/day-6-travel-agency" target="_blank">Rendered Output</a>
 
 #### How to: Image + Hyperlink + Caption
-`<figure> <a href="url" target="_blank"> <img src="image.jpeg" alt="Description"> </a> <figcaption>Caption</figcaption> </figure>`
+`<figure> <a href="url" target="_blank"> <img src="image.jpeg" alt="Description"> </a> <figcaption>Caption</figcaption> </figure>`  
+Also written as:  
+```html
+<figure>
+  <a href="url" target="_blank">
+    <img src="image.jpeg" alt="Description">
+  </a>
+  <figcaption>Caption</figcaption>
+</figure>
+```
 
 ### Meta Elements
 - `<meta>`
